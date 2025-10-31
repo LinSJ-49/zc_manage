@@ -64,9 +64,9 @@ const logout = () => {
               <el-menu-item index="/stu">
                 <el-icon><UserFilled /></el-icon>学生管理
               </el-menu-item>
-              <!-- <el-menu-item index="/course">
+              <el-menu-item index="/course">
               <el-icon><Document /></el-icon>课程管理
-              </el-menu-item> -->
+              </el-menu-item>
               <!-- <el-menu-item index="/score">
                 <el-icon><Document /></el-icon>成绩管理
               </el-menu-item> -->
