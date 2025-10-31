@@ -73,9 +73,6 @@ const logout = () => {
               <el-menu-item index="/emp">
                 <el-icon><Avatar /></el-icon>员工教师管理
               </el-menu-item>
-              <el-menu-item index="/dept">
-                <el-icon><HelpFilled /></el-icon>部门管理
-              </el-menu-item>
             </el-sub-menu>
             
             <!-- 系统信息管理 -->
